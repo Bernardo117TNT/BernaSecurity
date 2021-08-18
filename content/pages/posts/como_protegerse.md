@@ -23,6 +23,12 @@ seo:
       value: ¿Cómo protegerse de manera básica para evitar hackers?
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Cansado de ser victima de un hacker. Ven y te cuento como protegerte
+        para que le sea mas difícil a un hacker
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/HwHgv.jpeg
