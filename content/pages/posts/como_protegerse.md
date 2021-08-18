@@ -35,6 +35,10 @@ seo:
         para que le sea mas difícil a un hacker
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: ¿Cómo protegerse de manera básica para evitar hackers?
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/HwHgv.jpeg
