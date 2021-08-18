@@ -6,12 +6,12 @@ excerpt: >-
   de otros medios de protección en el entorno de la información. Es importante
   comprender que este concepto no es un caso especial de protección contra
   ataques. La ciberseguridad son todas las medidas para proteger redes,
-  aplicaciones y dispositivos.\_Esta solución tiene como objetivo la seguridad
-  de los datos confidenciales, para proteger su integridad, así como para
-  preservar el correcto funcionamiento de una organización en particular. Esta
-  solución se ha vuelto muy popular no solo por la novedad del enfoque.\_Se
-  trata del rápido crecimiento de varios tipos de ataques, que una y otra vez se
-  vuelven más sofisticados."
+  aplicaciones y dispositivos. Esta solución tiene como objetivo la seguridad de
+  los datos confidenciales, para proteger su integridad, así como para preservar
+  el correcto funcionamiento de una organización en particular. Esta solución se
+  ha vuelto muy popular no solo por la novedad del enfoque. Se trata del rápido
+  crecimiento de varios tipos de ataques, que una y otra vez se vuelven más
+  sofisticados.
 date: '2019-03-27'
 thumb_img_path: /images/cyber-4610993_1920 (1).jpg
 thumb_img_alt: Icelandic horses
