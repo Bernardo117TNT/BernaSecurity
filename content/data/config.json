@@ -73,7 +73,7 @@
             {
                 "label": "facebook",
                 "url": "https://www.facebook.com/bernasecurit",
-                "style": "button",
+                "style": "icon",
                 "icon_class": "facebook",
                 "new_window": true,
                 "no_follow": false,
