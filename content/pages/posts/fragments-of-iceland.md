@@ -18,34 +18,34 @@ thumb_img_alt: Icelandic horses
 content_img_path: /images/cyber-4610993_1920 (1).jpg
 content_img_alt: Icelandic horses
 seo:
-  title: Fragments of Iceland
-  description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
+  title: ¿Qué es la ciberseguridad?
+  description: '¿Quieres saber como funciona esta rama de la informática?. Ven y te cuento  '
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fragments of Iceland
+      value: ¿Qué es la ciberseguridad?
       keyName: property
     - name: 'og:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        ¿Quieres saber como funciona esta rama de la informática?. Ven y te
+        cuento  
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: /images/cyber-4610993_1920 (1).jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fragments of Iceland
+      value: ¿Qué es la ciberseguridad?
     - name: 'twitter:description'
       value: >-
-        Iceland is a Nordic country between the North Atlantic and the Arctic
-        Ocean.
+        ¿Quieres saber como funciona esta rama de la informática?. Ven y te
+        cuento  
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: /images/cyber-4610993_1920 (1).jpg
       relativeUrl: true
 layout: post
 ---
