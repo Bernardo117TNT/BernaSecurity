@@ -10,7 +10,7 @@ excerpt: >-
 date: '2021-08-15'
 thumb_img_path: /images/Binance-información-KYC-hackers-960x570.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
-content_img_path: images/2.jpg
+content_img_path: /images/Binance-información-KYC-hackers-960x570.jpg
 content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
   title: A Weekend in Japan
