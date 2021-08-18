@@ -1,6 +1,5 @@
 ---
 title: ¿Cómo protegerse de manera básica para evitar hackeos?
-subtitle: lorem-ipsum
 date: '2021-08-18'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
