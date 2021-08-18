@@ -1,9 +1,17 @@
 ---
 title: ¿Qué es la ciberseguridad?
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  "Por el momento, casi todo el mundo conoce este concepto.\_Pero pocas personas
+  saben con certeza por qué se necesita la ciberseguridad y en qué se diferencia
+  de otros medios de protección en el entorno de la información. Es importante
+  comprender que este concepto no es un caso especial de protección contra
+  ataques.\_La ciberseguridad son todas las medidas para proteger redes,
+  aplicaciones y dispositivos.\_Esta solución tiene como objetivo la seguridad
+  de los datos confidenciales, para proteger su integridad, así como para
+  preservar el correcto funcionamiento de una organización en particular. Esta
+  solución se ha vuelto muy popular no solo por la novedad del enfoque.\_Se
+  trata del rápido crecimiento de varios tipos de ataques, que una y otra vez se
+  vuelven más sofisticados."
 date: '2019-03-27'
 thumb_img_path: /images/cyber-4610993_1920 (1).jpg
 thumb_img_alt: Icelandic horses
