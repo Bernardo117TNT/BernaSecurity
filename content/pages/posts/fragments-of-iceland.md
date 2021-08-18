@@ -5,7 +5,7 @@ excerpt: >-
   saben con certeza por qué se necesita la ciberseguridad y en qué se diferencia
   de otros medios de protección en el entorno de la información. Es importante
   comprender que este concepto no es un caso especial de protección contra
-  ataques.La ciberseguridad son todas las medidas para proteger redes,
+  ataques. La ciberseguridad son todas las medidas para proteger redes,
   aplicaciones y dispositivos.\_Esta solución tiene como objetivo la seguridad
   de los datos confidenciales, para proteger su integridad, así como para
   preservar el correcto funcionamiento de una organización en particular. Esta
