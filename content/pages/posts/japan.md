@@ -5,7 +5,7 @@ excerpt: >-
   programador deshonesto con habilidad para modificar hardware o software de
   computadora para que pueda ser usado de maneras fuera de la intención de los
   desarrolladores originales. Pero esta es una visión estrecha que no comienza a
-  abarcar la amplia gama de razones por las que alguien recurre a hackear.(Para
+  abarcar la amplia gama de razones por las que alguien recurre a hackear. (Para
   ver en profundidad a los hackers, lea este post que hice para ti)
 date: '2021-08-15'
 thumb_img_path: /images/Binance-información-KYC-hackers-960x570.jpg
