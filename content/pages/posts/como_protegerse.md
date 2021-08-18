@@ -19,6 +19,10 @@ seo:
       value: /images/HwHgv.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: ¿Cómo protegerse de manera básica para evitar hackers?
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/HwHgv.jpeg
