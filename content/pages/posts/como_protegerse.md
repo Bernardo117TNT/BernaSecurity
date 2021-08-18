@@ -4,13 +4,13 @@ date: '2021-08-17'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: >-
-  Según informes de los medios, al menos 21 millones de usuarios de Internet
+  Según informes de los medios, al menos 31 millones de usuarios de Internet
   sufrieron una fuga a gran escala de datos personales: piratas informáticos
   desconocidos robaron y publicaron sus direcciones de correo electrónico y
   contraseñas. Ahora los delincuentes pueden aprovecharse de ellos enviando
   correos electrónicos maliciosos a las libretas de direcciones de las víctimas.
-  Cómo protegerse de un ataque masivo y proteger la confidencialidad de la
-  información personal, descubrió "Parlamentskaya Gazeta".
+  Cómo protegerse de un ataque y proteger la confidencialidad de la información
+  personal de manera básica, descúbrelo leyendo este posts
 seo:
   title: ¿Cómo protegerse de manera básica para evitar hackers?
   description: >-
