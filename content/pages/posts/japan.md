@@ -1,5 +1,5 @@
 ---
-title: Minimalist Travel - A Weekend in Japan
+title: ¿Qué es un Hacker?
 excerpt: >-
   Muchos piensan que "Hacker" se refiere a algún niño prodigio autodidacta o
   programador deshonesto con habilidad para modificar hardware o software de
