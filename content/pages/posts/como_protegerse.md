@@ -6,7 +6,9 @@ content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: ¿Cómo protegerse de manera básica para evitar hackers?
-  description: ''
+  description: >-
+    Cansado de ser victima de un hacker. Ven y te cuento como protegerte para
+    que le sea mas difícil a un hacker
   robots: []
   extra: []
   type: stackbit_page_meta
