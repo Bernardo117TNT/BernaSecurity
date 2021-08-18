@@ -21,7 +21,7 @@ Te voy a quitar esta idea: están interesados ​​en ti. **Por supuesto, no a
 
 Aquí unos ejemplos de algo comunes:
 
-Una computadora está infectada con software espía de la siguiente manera: recibes un correo electrónico de una persona desconocida o de alguna empresa o aplicación a la que no recuerdas tener cuenta y **en el correo hay un archivo, lo abres sin cuidado** **y obtiene un conjunto completo de macros maliciosas que están integradas en aplicaciones populares, por ejemplo, Microsoft Office. **
+Una computadora está infectada con software espía de la siguiente manera: recibes un correo electrónico de una persona desconocida o de alguna empresa o aplicación a la que no recuerdas tener cuenta y **en el correo hay un archivo, lo abres sin cuidado y obtiene un conjunto completo de macros maliciosas que están integradas en aplicaciones populares, por ejemplo, Microsoft Office.**
 
 El consejo más banal, pero eficaz: no abra cartas de destinatarios desconocidos.
 Es incluso mejor **no almacenar sus archivos de fotos personales y escaneos de documentos en su disco duro**. ¿Dónde guardarlo? En unidades externas como \*\*USB \*\*libres de estar conectados a internet.
