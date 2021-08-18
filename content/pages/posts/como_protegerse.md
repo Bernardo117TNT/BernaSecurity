@@ -5,7 +5,7 @@ thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
-  title: ''
+  title: ¿Cómo protegerse de manera básica para evitar hackers?
   description: ''
   robots: []
   extra: []
