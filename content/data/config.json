@@ -74,7 +74,7 @@
                 "label": "facebook",
                 "url": "https://www.facebook.com/bernasecurit",
                 "style": "button",
-                "icon_class": "github",
+                "icon_class": "facebook",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
