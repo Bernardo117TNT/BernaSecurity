@@ -1,6 +1,6 @@
 ---
 title: ¿Cómo protegerse de manera básica para evitar hackers?
-date: '2021-08-18'
+date: '2021-08-17'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
