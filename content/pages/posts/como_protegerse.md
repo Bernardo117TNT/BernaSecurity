@@ -10,7 +10,11 @@ seo:
     Cansado de ser victima de un hacker. Ven y te cuento como protegerte para
     que le sea mas difícil a un hacker
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/HwHgv.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/HwHgv.jpeg
