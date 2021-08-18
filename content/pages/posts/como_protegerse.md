@@ -15,6 +15,10 @@ seo:
       value: /images/HwHgv.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/HwHgv.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/HwHgv.jpeg
