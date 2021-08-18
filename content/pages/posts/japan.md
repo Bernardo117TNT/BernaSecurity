@@ -1,10 +1,12 @@
 ---
 title: Minimalist Travel - A Weekend in Japan
 excerpt: >-
-  The Shrines of Ise have been celebrated as the prototype of Japanese
-  architecture. Largely of wood, traditional housing and many temple buildings
-  see the use of tatami mats and sliding doors that break down the distinction
-  between rooms and indoor and outdoor space.
+  Muchos piensan que "Hacker" se refiere a algún niño prodigio autodidacta o
+  programador deshonesto con habilidad para modificar hardware o software de
+  computadora para que pueda ser usado de maneras fuera de la intención de los
+  desarrolladores originales. Pero esta es una visión estrecha que no comienza a
+  abarcar la amplia gama de razones por las que alguien recurre a hackear.(Para
+  ver en profundidad a los hackers, lea este post que hice para ti)
 date: '2019-03-24'
 thumb_img_path: /images/Binance-información-KYC-hackers-960x570.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
