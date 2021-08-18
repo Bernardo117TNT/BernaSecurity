@@ -12,7 +12,7 @@ excerpt: >-
   ha vuelto muy popular no solo por la novedad del enfoque. Se trata del rápido
   crecimiento de varios tipos de ataques, que una y otra vez se vuelven más
   sofisticados.
-date: '2021-08-27'
+date: '2021-08-16'
 thumb_img_path: /images/cyber-4610993_1920 (1).jpg
 thumb_img_alt: Icelandic horses
 content_img_path: /images/cyber-4610993_1920 (1).jpg
