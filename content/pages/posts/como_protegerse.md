@@ -29,6 +29,12 @@ seo:
         para que le sea mas difícil a un hacker
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Cansado de ser victima de un hacker. Ven y te cuento como protegerte
+        para que le sea mas difícil a un hacker
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/HwHgv.jpeg
