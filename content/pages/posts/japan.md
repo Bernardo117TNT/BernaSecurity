@@ -7,7 +7,7 @@ excerpt: >-
   desarrolladores originales. Pero esta es una visión estrecha que no comienza a
   abarcar la amplia gama de razones por las que alguien recurre a hackear.(Para
   ver en profundidad a los hackers, lea este post que hice para ti)
-date: '2019-03-24'
+date: '2021-08-24'
 thumb_img_path: /images/Binance-información-KYC-hackers-960x570.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
 content_img_path: images/2.jpg
