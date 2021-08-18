@@ -39,6 +39,10 @@ seo:
       value: ¿Cómo protegerse de manera básica para evitar hackers?
       keyName: name
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/HwHgv.jpeg
