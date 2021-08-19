@@ -59,7 +59,7 @@ layout: post
 thumb_img_path: /images/HwHgv.jpeg
 content_img_path: /images/HwHgv.jpeg
 ---
-El ciberespionaje está en todas partes. La urgencia del problema es obvia. **El mundo está sacudido por los ransomware, troyanos, virus de gusanos y los links de phishing**. Gracias a esto las personas viven con el mido de que si pueden ser la siguiente en una larga lista de personas hackeadas pero también hay personas que piensan: ¿Qué me importa? Los hackers no están interesados en alguien como yo".
+El ciberespionaje está en todas partes. La urgencia del problema es obvia. **El mundo está sacudido por los ransomware, troyanos, virus de gusanos y los links de phishing**. Gracias a esto las personas viven con el miedo de que si pueden ser la siguiente en una larga lista de personas hackeadas pero también hay personas que piensan: ¿Qué me importa? Los hackers no están interesados en alguien como yo".
 Te voy a quitar esta idea: están interesados ​​en ti. **Por supuesto, no a los servicios especiales. Pero incluso una persona de ingresos medios es una presa sabrosa para los hackers**. Un tipo popular de estafa en la actualidad es robar escaneos de credencial de identificación(INE) de su computadora y luego ofrecerle un rescate por tus archivos. De lo contrario, amenazando con venderlos a estafadores que emitirán préstamos.
 
 **Entonces, cómo protegerse de un hacker**: Aquí te cuento algunos consejos de mi parte. Dirigido a quienes no entienden las palabras ataque de phishing, macro e inyección reflectante. Los usuarios comunes también deberían poder defenderse de los hackers black hat.
