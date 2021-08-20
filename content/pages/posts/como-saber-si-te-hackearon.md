@@ -1,6 +1,5 @@
 ---
 title: "¿Cómo saber si tus cuentas han sido hackeadas?\_¿Y que hacer?"
-subtitle: lorem-ipsum
 date: '2021-08-20'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
