@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-*Con el desarrollo activo de las redes sociales y otros servicios digitales, cada vez con mayor frecuencia se piratean las páginas o los correos electrónicos de los usuarios. Para tomar las medidas necesarias de manera oportuna, es necesario conocer las principales señales que indican que un atacante está a cargo de la cuenta. Te diremos cómo entender que tu cuenta en redes o correo electrónico ha sido hackeada y qué hacer para evitar que esto suceda.*
+*Con el desarrollo activo de las redes sociales y otros servicios digitales, cada vez con mayor frecuencia se hackean las páginas o los correos electrónicos de los usuarios, como tu que no saben mucho de ciberseguridad . Para tomar las medidas necesarias de manera oportuna, es necesario conocer las principales señales que indican que un crecker está a cargo de tu cuenta. Te *diré* cómo entender que tu cuenta en redes o correo electrónico ha sido hackeada y qué hacer para evitar que esto suceda.*
 
 ##### **Principales vulnerabilidades**
 
@@ -22,9 +22,9 @@ layout: post
 
 ##### **Cómo saber si una cuenta de correo electrónico o una página de redes sociales ha sido hackeada**
 
-*   Ha dejado de recibir facturas por servicios de suscripción u otros artículos o servicios mensuales. Por lo general, llegan a su correo al mismo tiempo, pero recientemente esto no ha sucedido. Esto puede significar que los atacantes han obtenido acceso a sus cuentas y han cambiado sus direcciones de correo electrónico.
+*   Ha dejado de recibir facturas por servicios de suscripción, actualizaciones u otros artículos o servicios mensuales. Por lo general, llegan a su correo al mismo tiempo, pero recientemente esto no ha sucedido?. Esto puede significar que los atacantes han obtenido acceso a tus cuentas y han cambiado tus direcciones de correo electrónico.
 
-*   No puede ingresar la contraseña establecida, las respuestas a las preguntas de seguridad no funcionan y el número de teléfono para restaurar el acceso no es suyo en absoluto.
+*   No puedes ingresar la contraseña establecida, las respuestas a las preguntas de seguridad no funcionan y el número de teléfono para restaurar el acceso no es tuyo en absoluto.
 
 *   Su computadora se ha vuelto más lenta, cuando arranca, ve iconos de programas que no instaló y el administrador de tareas muestra procesos desconocidos. Además, cuando abre su navegador, pueden aparecer páginas de sitios que definitivamente no ha visitado.
 
