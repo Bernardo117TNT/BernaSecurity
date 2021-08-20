@@ -1,5 +1,5 @@
 ---
-title: "¿Cómo saber si su cuenta de correo electrónico o de redes sociales ha sido pirateada?\_¿Y cómo los proteges?"
+title: "¿Cómo saber si tus cuentas han sido hackeadas?\_¿Y que hacer?"
 subtitle: lorem-ipsum
 date: '2021-08-20'
 thumb_img_alt: lorem-ipsum
