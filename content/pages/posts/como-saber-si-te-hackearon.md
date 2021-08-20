@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-*Con el desarrollo activo de las redes sociales y otros servicios digitales, cada vez con mayor frecuencia se hackean las páginas o los correos electrónicos de los usuarios, como tu que no saben mucho de ciberseguridad . Para tomar las medidas necesarias de manera oportuna, es necesario conocer las principales señales que indican que un crecker está a cargo de tu cuenta. Te *diré* cómo entender que tu cuenta en redes o correo electrónico ha sido hackeada y qué hacer para evitar que esto suceda.*
+*Con el desarrollo activo de las redes sociales y otros servicios digitales, cada vez con mayor frecuencia se hackean las páginas o los correos electrónicos de los usuarios, como tu que no saben mucho de ciberseguridad . Para tomar las medidas necesarias de manera oportuna, es necesario conocer las principales señales que indican que un cracker está a cargo de tu cuenta. Te diré cómo entender que tu cuenta en redes o correo electrónico ha sido hackeada y qué hacer para evitar que esto suceda.*
 
 ##### **Principales vulnerabilidades**
 
@@ -26,21 +26,21 @@ layout: post
 
 *   No puedes ingresar la contraseña establecida, las respuestas a las preguntas de seguridad no funcionan y el número de teléfono para restaurar el acceso no es tuyo en absoluto.
 
-*   Su computadora se ha vuelto más lenta, cuando arranca, ve iconos de programas que no instaló y el administrador de tareas muestra procesos desconocidos. Además, cuando abre su navegador, pueden aparecer páginas de sitios que definitivamente no ha visitado.
+*   Tu computadora se ha vuelto más lenta, cuando arranca, ves iconos de programas que no instalaste y el administrador de tareas muestra procesos desconocidos. Además, cuando abres tu navegador, pueden aparecer páginas de sitios que definitivamente no has visitado.
 
-*   En su nombre, en el buzón, se llevan a cabo las acciones que no realizó: las cartas se marcan como leídas y en las carpetas Elementos enviados hay información que no envió. En las redes sociales, esto puede ser la inclusión de música en la lista de reproducción que no se ajusta a tus gustos, unirte a varios grupos, agregar personas que no conoces como amigos o volver a publicar en el muro que no has hecho.
+*   En tu nombre, en el buzón, se llevan a cabo las acciones que no realizaste: las cartas se marcan como leídas y en las carpetas Elementos enviados hay información que no enviaste. En las redes sociales, esto puede ser la inclusión de música en la lista de reproducción que no se ajusta a tus gustos, unirte a varios grupos, agregar personas que no conoces como amigos o ver publicaciones en el muro que no has hecho.
 
-*   Una de las señales seguras de que una cuenta está siendo pirateada es una advertencia de que se ha accedido a la página desde otro dispositivo.
+*   Una de las señales seguras de que una cuenta está siendo hackeada es una advertencia de que se ha accedido a la página desde otro dispositivo.
 
 *   Cuando un usuario visita una página en las redes sociales, el sistema registra automáticamente el país desde el que inició sesión la cuenta. Si un área apareció repentinamente en el historial de visitas, desde el cual el propietario nunca inició sesión en su cuenta, entonces esta es una razón para ser cauteloso.
 
 ##### **Qué hacer**
 
-*   Si no existen facturas por sus compras o servicios, lo primero que debe hacer es revisar la carpeta "Spam". Si no están allí, verifique la configuración de las aplicaciones y los servicios de suscripción. Si no puede iniciar sesión en su cuenta, debe ponerse en contacto con el servicio de asistencia e informar el problema.
+*   Si no existen facturas por sus compras o servicios, lo primero que debe hacer es revisar la carpeta "Spam". Si no están allí, verifica la configuración de las aplicaciones y los servicios de suscripción. Si no puedes iniciar sesión en tu cuenta, debe ingresar al área de ¿olvide mi contraseña?. Y verifica si la forma de recuperar tu cuenta sea con tu información personal (celular o correo). Si ya no puedes recuperar con tus datos es necesario ponerse en contacto con la plataforma y a veces le piden llenar un formulario demostrando que usted es el dueño legitimo de la cuenta .
 
-*   Es necesario ponerse en contacto con la administración del servicio postal y también, si es posible, notificar a sus amigos y colegas que ha sido pirateado, para que los atacantes puedan actuar en su nombre.
+*   Es necesario ponerse en contacto con la administración del correo electrónico y también, si es posible, notificar a tus amigos y familiares que te hackearon, para que los atacantes no puedan actuar en tu nombre.
 
-*   Debe realizar un análisis completo de su computadora o teléfono con un antivirus.
+*   Debes realizar un análisis completo de su computadora o teléfono con un antivirus.
 
 *   Verifique la configuración de su correo electrónico para asegurarse de que nada haya cambiado en ellos, ya que los atacantes pueden reconfigurar su correo, por ejemplo, para enviar copias de sus correos electrónicos a su propia dirección.
 
