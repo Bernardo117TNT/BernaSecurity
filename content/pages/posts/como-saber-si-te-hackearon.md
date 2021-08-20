@@ -14,15 +14,13 @@ layout: post
 ---
 *Con el desarrollo activo de las redes sociales y otros servicios digitales, cada vez con mayor frecuencia se piratean las páginas o los correos electrónicos de los usuarios. Para tomar las medidas necesarias de manera oportuna, es necesario conocer las principales señales que indican que un atacante está a cargo de la cuenta. Te diremos cómo entender que tu cuenta en redes o correo electrónico ha sido hackeada y qué hacer para evitar que esto suceda.*
 
-
-
 ##### **Principales vulnerabilidades**
 
-*   La contraseña es demasiado simple **. **Los crackers suelen utilizar la denominada fuerza bruta, es decir, la enumeración de todas las combinaciones posibles. Si su contraseña consta de 6 dígitos o, por ejemplo, "012345", no será difícil para los estafadores acceder a su buzón.  
+*   La contraseña es demasiado simple. Los crackers suelen utilizar la denominada fuerza bruta, es decir, la enumeración de todas las combinaciones posibles. Si su contraseña consta de 6 dígitos o, por ejemplo, "012345", no será difícil para los estafadores acceder a su buzón.  
 
 *   Pregunta secreta. Mucha gente piensa que esto ayudará a proteger aún más el correo electrónico o una página en algún servicio, pero este no es el caso en absoluto. De hecho, la mayoría de las veces se trata de preguntas sobre el nombre de una mascota o el apellido de soltera de la madre, que son conocidas por una amplia gama de personas. Por cierto, este método de descifrado es mucho más simple que la fuerza bruta de una contraseña.
 
-##### **Cómo saber si una cuenta de correo electrónico o una página de redes sociales ha sido pirateada**
+##### **Cómo saber si una cuenta de correo electrónico o una página de redes sociales ha sido hackeada**
 
 *   Ha dejado de recibir facturas por servicios de suscripción u otros artículos o servicios mensuales. Por lo general, llegan a su correo al mismo tiempo, pero recientemente esto no ha sucedido. Esto puede significar que los atacantes han obtenido acceso a sus cuentas y han cambiado sus direcciones de correo electrónico.
 
