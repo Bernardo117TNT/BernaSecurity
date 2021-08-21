@@ -3,7 +3,7 @@ title: "¿Cómo saber si tus cuentas han sido hackeadas?\_¿Y que hacer?"
 date: '2021-08-20'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: "Nuestras cuentas en las redes sociales y los servicios en línea pueden verse comprometidas, por lo que es muy importante comprender los riesgos existentes y qué hacer para protegernos; le hemos traducido el artículo de Wired sobre estos temas. \_La persona promedio tiene más probabilidades de enfrentar menos amenazas complejas que, digamos, un funcionario de alto rango, activista o director ejecutivo de una empresa.\_Las personas públicas pueden ser blanco de ataques de phishing que tienen como objetivo información clasificada de las redes corporativas o roban grandes sumas de dinero.\_Es más probable que usted, sus amigos y familiares se enfrenten a otras amenazas, desde represalias de conocidos hasta, más probablemente, ataques de grupos delictivos que utilizan herramientas automatizadas de recopilación masiva de credenciales."
 seo:
   title: ''
   description: ''
