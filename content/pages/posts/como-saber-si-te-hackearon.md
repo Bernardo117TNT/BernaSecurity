@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_img_path: /images/1606299375551_2.jpg
 ---
 *Con el desarrollo activo de las redes sociales y otros servicios digitales, cada vez con mayor frecuencia se hackean las páginas o los correos electrónicos de los usuarios, como tu que no saben mucho de ciberseguridad . Para tomar las medidas necesarias de manera oportuna, es necesario conocer las principales señales que indican que un cracker está a cargo de tu cuenta. Te diré cómo entender que tu cuenta en redes o correo electrónico ha sido hackeada y qué hacer para evitar que esto suceda.*
 
