@@ -11,7 +11,11 @@ seo:
     electrónicos de los usuarios, como tu que no saben mucho de ciberseguridad.
     !Entérate¡
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/1606299375551_2.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/1606299375551_2.jpg
