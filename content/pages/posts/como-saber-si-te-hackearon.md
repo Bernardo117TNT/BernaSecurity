@@ -30,24 +30,24 @@ content_img_path: /images/1606299375551_2.jpg
 
 *   Tu computadora se ha vuelto más lenta, cuando arranca, ves iconos de programas que no instalaste y el administrador de tareas muestra procesos desconocidos. Además, cuando abres tu navegador, pueden aparecer páginas de sitios que definitivamente no has visitado.
 
-*   En tu nombre, en el buzón, se llevan a cabo las acciones que no realizaste: las cartas se marcan como leídas y en las carpetas Elementos enviados hay información que no enviaste. En las redes sociales, esto puede ser la inclusión de música en la lista de reproducción que no se ajusta a tus gustos, unirte a varios grupos, agregar personas que no conoces como amigos o ver publicaciones en el muro que no has hecho.
+*   En tu nombre, en el buzón, se llevan a cabo las acciones que no realizaste: los correos se marcan como leídos y en las carpetas Elementos enviados hay información que no enviaste. En las redes sociales, esto puede ser la inclusión de música en la lista de reproducción que no se ajusta a tus gustos, unirte a varios grupos, agregar personas que no conoces como amigos o ver publicaciones en el muro que no has hecho.
 
 *   Una de las señales seguras de que una cuenta está siendo hackeada es una advertencia de que se ha accedido a la página desde otro dispositivo.
 
-*   Cuando un usuario visita una página en las redes sociales, el sistema registra automáticamente el país desde el que inició sesión la cuenta. Si un área apareció repentinamente en el historial de visitas, desde el cual el propietario nunca inició sesión en su cuenta, entonces esta es una razón para ser cauteloso.
+*   Cuando un usuario visita una página en las redes sociales, el sistema registra automáticamente el país desde el que inició sesión la cuenta. Si un área apareció repentinamente en el historial de visitas, desde el cual el usuario nunca inició sesión en su cuenta, entonces esta es una razón para ser cauteloso.
 
 ##### **Qué hacer**
 
-*   Si no existen facturas por sus compras o servicios, lo primero que debe hacer es revisar la carpeta "Spam". Si no están allí, verifica la configuración de las aplicaciones y los servicios de suscripción. Si no puedes iniciar sesión en tu cuenta, debe ingresar al área de ¿olvide mi contraseña?. Y verifica si la forma de recuperar tu cuenta sea con tu información personal (celular o correo). Si ya no puedes recuperar con tus datos es necesario ponerse en contacto con la plataforma y a veces le piden llenar un formulario demostrando que usted es el dueño legitimo de la cuenta .
+*   Si no existen notificaciones por sus compras, actualizaciones o servicios, lo primero que debe hacer es revisar la carpeta "Spam". Si no están allí, verifica la configuración de las aplicaciones y los servicios de suscripción. Si no puedes iniciar sesión en tu cuenta, debe ingresar al área de ¿olvide mi contraseña?. Y verifica si la forma de recuperar tu cuenta sea con tu información personal (celular o correo). Si ya no puedes recuperar con tus datos es necesario ponerse en contacto con la plataforma y a veces le piden llenar un formulario demostrando que usted es el dueño legitimo de la cuenta .
 
 *   Es necesario ponerse en contacto con la administración del correo electrónico y también, si es posible, notificar a tus amigos y familiares que te hackearon, para que los atacantes no puedan actuar en tu nombre.
 
-*   Debes realizar un análisis completo de su computadora o teléfono con un antivirus.
+*   Debes realizar un análisis completo de tu computadora o teléfono con un antivirus.
 
-*   Verifique la configuración de su correo electrónico para asegurarse de que nada haya cambiado en ellos, ya que los atacantes pueden reconfigurar su correo, por ejemplo, para enviar copias de sus correos electrónicos a su propia dirección.
+*   Verifica la configuración de tu correo electrónico para asegurarte de que nada haya cambiado en ellos, ya que los atacantes pueden reconfigurar su correo, por ejemplo, para enviar copias de tus correos electrónicos a su propia dirección.
 
 *   Además, durante algún tiempo es necesario abstenerse de realizar pagos electrónicos, ya que no se sabe qué información ya ha recibido el atacante, y un intento de pagar por algo puede dar lugar a una fuga de datos adicional. Por lo tanto, es mejor no utilizar medios de pago electrónicos hasta estar seguro de que la amenaza ha pasado.
 
-*   Si los piratas informáticos han pirateado su correo, lo primero que debe hacer es cambiar la dirección de correo electrónico que está vinculada a las cuentas en las redes sociales y en otros servicios que contienen información personal. Es muy probable que, tras hacerse cargo de su correo, los atacantes intenten piratear sus otras cuentas.
+*   Si los  crackers han hackeado su correo, lo primero que debes hacer es cambiar la dirección de correo electrónico que está vinculada a las cuentas en las redes sociales y en otros servicios que contienen información personal. Es muy probable que, tras hacerte cargo de tu correo, los atacantes intenten hackear sus otras cuentas.
 
-*   Si se ha pirateado una red social, es mejor advertir a sus amigos e interlocutores que la cuenta ha estado en las manos equivocadas durante algún tiempo.
+*   Si se ha hackeado una red social, es mejor advertir a tus amigos e interlocutores que la cuenta ha estado en las manos equivocadas durante algún tiempo.
