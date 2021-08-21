@@ -6,7 +6,10 @@ content_img_alt: lorem-ipsum
 excerpt: "Nuestras cuentas en las redes sociales y los servicios en línea pueden verse comprometidas, por lo que es muy importante comprender los riesgos existentes y qué hacer para protegernos. La persona promedio tiene más probabilidades de enfrentar menos amenazas complejas que, digamos, un funcionario de alto rango, activista o director ejecutivo de una empresa. Pero aun así las personas públicas pueden ser blanco de ataques de phishing que tienen como objetivo información clasificada de las redes corporativas o roban grandes sumas de dinero.\_Es más probable que usted, sus amigos y familiares se enfrenten a otras amenazas, desde represalias de conocidos hasta, más probablemente, ataques de grupos delictivos que utilizan herramientas automatizadas de recopilación masiva de credenciales. Entérate si has sido victima de estos ataques."
 seo:
   title: ¿Cómo saber si tus cuentas han sido hackeadas? ¿Y que hacer?
-  description: ''
+  description: >-
+    Cada día con mayor frecuencia se hackean las páginas o los correos
+    electrónicos de los usuarios, como tu que no saben mucho de ciberseguridad.
+    !Entérate¡
   robots: []
   extra: []
   type: stackbit_page_meta
